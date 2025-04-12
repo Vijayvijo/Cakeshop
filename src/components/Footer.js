@@ -91,7 +91,7 @@ const Footer = () => {
                 </div>
             </div>
             <p className="me">
-                © Designed by <span><FaSmile /> Karthik</span> | All rights reserved.
+                © Designed by <span><FaSmile /> Vijay</span> | All rights reserved.
             </p>
         </footer>
     );
